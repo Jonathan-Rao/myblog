@@ -1,6 +1,3 @@
-<p align="center" style="margin-bottom: 25px;">
-  <img src="https://cloud.githubusercontent.com/assets/8949716/17818792/a27fd894-6677-11e6-96a1-108397571333.gif">
-</p>
 
 你好，我是饶道坤，一个生活在南京的 前端 开发者和开源爱好者。正为30岁前成为一名全栈工程师的目标奋斗着
 
