@@ -10,5 +10,5 @@
 
 | 个人主页 | 邮箱 | BGA系列开源库QQ群
 | ------------- | ------------ | ------------ |
-| <a  href="http://blog.raodaokun.top" target="_blank">blog.raodaokun.top</a>  | <a href="515977826@qq.com" target="_blank">515977826@qq.com</a> | ![Image text](https://www.raodaokun.top/image/weixin.jpg) |
+| <a  href="http://blog.raodaokun.top" target="_blank">blog.raodaokun.top</a>  | <a href="515977826@qq.com" target="_blank">515977826@qq.com</a> | ![BGA_CODE_CLUB](http://blog.raodaokun.top/static/img/qq-group.jpg) |
 
