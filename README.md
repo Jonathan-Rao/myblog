@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+<p align="center" style="margin-bottom: 25px;">
+  <img src="https://cloud.githubusercontent.com/assets/8949716/17818792/a27fd894-6677-11e6-96a1-108397571333.gif">
+</p>
 
-You can use the [editor on GitHub](https://github.com/Jonathan-Rao/myblog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+你好，我是饶道坤，一个生活在南京的 前端 开发者和开源爱好者。正为30岁前成为一名全栈工程师的目标奋斗着
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果您手头有在成都的 前端 或 Java 工作岗位，而且您认为我的能力能适应您的工作岗位，您可以发 Email 给我：<a href="515977826@qq.com" target="_blank">515977826@qq.com</a>
 
-### Markdown
+## 相关连接
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| 个人主页 | 邮箱 | BGA系列开源库QQ群
+| ------------- | ------------ | ------------ |
+| <a  href="http://blog.raodaokun.top" target="_blank">blog.raodaokun.top</a>  | <a href="515977826@qq.com" target="_blank">515977826@qq.com</a> | ![BGA_CODE_CLUB](http://www.raodaokun.top/image/weixin.jpg) |
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jonathan-Rao/myblog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
